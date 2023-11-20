@@ -29,7 +29,7 @@ public class Exe
         // This type of casting is risky, and you should ensure the compatibility of types at runtime to avoid exceptions.
 
         A obj = new A();
-        B? objasA = obj as B;
+        B? objasB = obj as B;
     
     }
 }
